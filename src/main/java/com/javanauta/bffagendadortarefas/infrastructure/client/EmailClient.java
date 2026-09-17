@@ -11,4 +11,3 @@ public interface EmailClient {
     void enviarEmail(@RequestBody TarefasDTOResponse dto);
 
     }
-
